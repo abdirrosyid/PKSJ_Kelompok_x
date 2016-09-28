@@ -214,8 +214,7 @@ Defending Tools
   
 ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-ssh-server/4.PNG "Logo Title Text 4")
   
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
+### 3. Instalasi Ubuntu Server
   1 . Pilih 'New' untuk membuat Virtual Machine yang baru
   
 ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/1.PNG "Logo Title Text 1")
@@ -336,6 +335,6 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
   
 ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/30.PNG "Logo Title Text 30")
 
-### 2. Instalasi Ubuntu Server
+
 
 
