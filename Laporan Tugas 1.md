@@ -66,128 +66,6 @@ Defending Tools
 
   1 . Pilih 'New' untuk membuat Virtual Machine yang baru
   
-![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/1.PNG "Logo Title Text 1")
-
-  2 . Masukkan nama,tipe,dan versi OS yang sesuai dengan OS yang akan diinstall kemudian aturlah jumlah RAM yang akan digunakan sesuai dengan kebutuhan OS dan pilih 'create a virtual hard disk now'.
-  
-![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/2.PNG "Logo Title Text 2")
-  
-  3 . Masukkan size virtual disk yang dibutuhkan kemudian pilih 'VDI' untuk tipe file hard disk.
-  
-![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/3.PNG "Logo Title Text 3")
-
-  4 . Pilih 'setting' untuk membuka menu setting kemudian pilih 'storage'
-
-![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/4.PNG "Logo Title Text 4")
-
-  5 . Pilih file ISO OS yang ingin digunakan
-  
-![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/5.PNG "Logo Title Text 5")
-
-  6 . Klik 'Kali Linux' dan klik start untuk menjalankan VM.
-  
-![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/6.PNG "Logo Title Text 6")
-
-  7 . pilih opsi 'Graphical Install'
-  
-![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/7.PNG "Logo Title Text 7")
-
-  8 . Plih bahasa yang akan digunakan.
-  
-![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/8.PNG "Logo Title Text 8")
-
-  9 . Pilih negera tempat tinggalmu.(karena tidak ada pilihan 'Indonesia',maka pilih 'Other')
- 
-![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/9.PNG "Logo Title Text 9")
-
-  10 . Pilih benua tempat tinggalmu.
-  
-![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/10.PNG "Logo Title Text 10")
-
-  11 . Pilih negara tempat tinggalmu.
-  
-![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/11.PNG "Logo Title Text 11")
-
-  12 . Pilih negara yang menjadi basis locale
-  
-![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/12.PNG "Logo Title Text 12")
-
-  13 . Pilih Keymap yang ingin digunakan
-  
-![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/13.PNG "Logo Title Text 13")
-
-  14 . Masukkan hostname yang ingin digunakan
-  
-![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/14.PNG "Logo Title Text 14")
-
-  15 . Masukkan domain yang ingin digunakan
-
-![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/15.PNG "Logo Title Text 15")
-
-  16 . Masukkan password root yang ingin digunakan sebanyak dua kali
-  
-![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/16.PNG "Logo Title Text 16")
-
-  17 . Pilihlah Time Zone yang sesuai dengan lokasi tempat tinggal
-  
-![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/17.PNG "Logo Title Text 17")
-
-  18 . Pilihlah opsi untuk mempartisi disk
-  
-![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/18.PNG "Logo Title Text 18")
-
-  19 . Pilih disk yang akan dipartisi
-  
-![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/19.PNG "Logo Title Text 19")
- 
-  20 . Pilih skema partisi yang ingin digunakan
- 
-![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/20.PNG "Logo Title Text 20")
-
-  21 . Pilih 'Finish partitioning and writes changes to disk'
-  
-![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/21.PNG "Logo Title Text 21")
-
-  22 . Pilih 'yes' untuk memulai proses partisi
-  
-![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/22.PNG "Logo Title Text 22")
-
-  23 . Pilih 'yes' untuk menggunakan network mirror
-  
-![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/23.PNG "Logo Title Text 23")
- 
-  24 . Masukkan HTTP Proxy jika ada
- 
-![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/24.PNG "Logo Title Text 24") 
-
-  25 . Pilih 'yes' untuk menginstall GRUB loader
-  
-![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/25.PNG "Logo Title Text 25")
-
-  26 . Pilih lokasi device yang ingin diinstall GRUB loader
- 
-![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/26.PNG "Logo Title Text 26")
-
-  27 . Tampilan instalasi selesai,pilih 'continue' untuk melakukan reboot
-  
-![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/27.PNG "Logo Title Text 27")
-
-  28 . Masukkan username yang sudah dibuat
-  
-![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/28.PNG "Logo Title Text 28")
- 
-  29 . Masukkan password
-
-![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/29.PNG "Logo Title Text 29")
-
-  30 . tampilan desktop Kali Linux
-  
-![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/30.PNG "Logo Title Text 30")
-
-### 2. Instalasi Ubuntu Server
-
-  1 . Pilih 'New' untuk membuat Virtual Machine yang baru
-  
 ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/instalasi-ubuntu-server/1.PNG "Logo Title Text 1")
 
   2 . Masukkan nama,tipe,dan versi OS yang sesuai dengan OS yang akan diinstall kemudian aturlah jumlah RAM yang akan digunakan sesuai dengan kebutuhan OS dan pilih 'create a virtual hard disk now'.
@@ -317,6 +195,131 @@ Defending Tools
   33 . Tampilan home Ubuntu Server
   
 ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/instalasi-ubuntu-server/33.PNG "Logo Title Text 33")
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+  1 . Pilih 'New' untuk membuat Virtual Machine yang baru
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/1.PNG "Logo Title Text 1")
+
+  2 . Masukkan nama,tipe,dan versi OS yang sesuai dengan OS yang akan diinstall kemudian aturlah jumlah RAM yang akan digunakan sesuai dengan kebutuhan OS dan pilih 'create a virtual hard disk now'.
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/2.PNG "Logo Title Text 2")
+  
+  3 . Masukkan size virtual disk yang dibutuhkan kemudian pilih 'VDI' untuk tipe file hard disk.
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/3.PNG "Logo Title Text 3")
+
+  4 . Pilih 'setting' untuk membuka menu setting kemudian pilih 'storage'
+
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/4.PNG "Logo Title Text 4")
+
+  5 . Pilih file ISO OS yang ingin digunakan
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/5.PNG "Logo Title Text 5")
+
+  6 . Klik 'Kali Linux' dan klik start untuk menjalankan VM.
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/6.PNG "Logo Title Text 6")
+
+  7 . pilih opsi 'Graphical Install'
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/7.PNG "Logo Title Text 7")
+
+  8 . Plih bahasa yang akan digunakan.
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/8.PNG "Logo Title Text 8")
+
+  9 . Pilih negera tempat tinggalmu.(karena tidak ada pilihan 'Indonesia',maka pilih 'Other')
+ 
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/9.PNG "Logo Title Text 9")
+
+  10 . Pilih benua tempat tinggalmu.
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/10.PNG "Logo Title Text 10")
+
+  11 . Pilih negara tempat tinggalmu.
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/11.PNG "Logo Title Text 11")
+
+  12 . Pilih negara yang menjadi basis locale
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/12.PNG "Logo Title Text 12")
+
+  13 . Pilih Keymap yang ingin digunakan
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/13.PNG "Logo Title Text 13")
+
+  14 . Masukkan hostname yang ingin digunakan
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/14.PNG "Logo Title Text 14")
+
+  15 . Masukkan domain yang ingin digunakan
+
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/15.PNG "Logo Title Text 15")
+
+  16 . Masukkan password root yang ingin digunakan sebanyak dua kali
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/16.PNG "Logo Title Text 16")
+
+  17 . Pilihlah Time Zone yang sesuai dengan lokasi tempat tinggal
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/17.PNG "Logo Title Text 17")
+
+  18 . Pilihlah opsi untuk mempartisi disk
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/18.PNG "Logo Title Text 18")
+
+  19 . Pilih disk yang akan dipartisi
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/19.PNG "Logo Title Text 19")
+ 
+  20 . Pilih skema partisi yang ingin digunakan
+ 
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/20.PNG "Logo Title Text 20")
+
+  21 . Pilih 'Finish partitioning and writes changes to disk'
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/21.PNG "Logo Title Text 21")
+
+  22 . Pilih 'yes' untuk memulai proses partisi
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/22.PNG "Logo Title Text 22")
+
+  23 . Pilih 'yes' untuk menggunakan network mirror
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/23.PNG "Logo Title Text 23")
+ 
+  24 . Masukkan HTTP Proxy jika ada
+ 
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/24.PNG "Logo Title Text 24") 
+
+  25 . Pilih 'yes' untuk menginstall GRUB loader
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/25.PNG "Logo Title Text 25")
+
+  26 . Pilih lokasi device yang ingin diinstall GRUB loader
+ 
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/26.PNG "Logo Title Text 26")
+
+  27 . Tampilan instalasi selesai,pilih 'continue' untuk melakukan reboot
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/27.PNG "Logo Title Text 27")
+
+  28 . Masukkan username yang sudah dibuat
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/28.PNG "Logo Title Text 28")
+ 
+  29 . Masukkan password
+
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/29.PNG "Logo Title Text 29")
+
+  30 . tampilan desktop Kali Linux
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/30.PNG "Logo Title Text 30")
+
+### 2. Instalasi Ubuntu Server
 
 ### 3. Instalasi SSH Server
 
