@@ -388,9 +388,19 @@ Pada tahap uji penetrasi tanpa defense ini akan ada 5 skenario :
   Perintah:"patator ssh_login host=10.151.43.5 port=5000 user=root password=admin" Hasil: Authentication failed
   ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Patator/2.PNG)
   
-    **3.**file username_benar.txt  file password_benar.txt
+   **3.**file username_benar.txt  file password_benar.txt
   
   Perintah:patator ssh_login host=10.151.43.5 port=5000 user=FILE0 password=FILE1 0=username_benar.txt 1=username_benar.txt" Hasil: sukses SSH-2.0-OpenSSH_6.6.lp1 Ubuntu-
   ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Patator/3_1.PNG)
   ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Patator/3_2.PNG)
   ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Patator/3_3.PNG)
+  
+  **4.**file username_benar.txt  file password_salah.txt
+  
+  Perintah:patator ssh_login host=10.151.43.5 port=5000 user=FILE0 password=FILE1 0=username_benar.txt 1=username_salah.txt" Hasil: Authentication failed
+  ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Patator/4.PNG)
+  
+  **5.**file username_salah.txt  file password_salah.txt
+  
+  Perintah:patator ssh_login host=10.151.43.5 port=5000 user=FILE0 password=FILE1 0=username_salah.txt 1=username_salah.txt" Hasil: Authentication failed
+  ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Patator/5.PNG)
