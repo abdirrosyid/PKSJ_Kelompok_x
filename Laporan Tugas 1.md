@@ -319,3 +319,5 @@ Defending Tools
 ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/instalasi-ubuntu-server/33.PNG "Logo Title Text 33")
 
 ### 3. Instalasi SSH Server
+
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-ssh-server/1.PNG "Logo Title Text 33")
