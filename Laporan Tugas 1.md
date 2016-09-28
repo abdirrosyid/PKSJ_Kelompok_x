@@ -10,6 +10,7 @@ Adian Latifa Nurrohman (5113100031)
 Tomson Panagua Krisasandi Pangaribuan (5113100048)
 
 PENDAHULUAN
+
 Tugas ini dibuat untuk menyelesaikan tugas Mata Kuliah Perancangan Keamanan Sistem dan Jaringan (PKSJ) Tahun 2016/2017, Teknik Informatika, Institut Teknologi Sepuluh Nopember, Surabaya.
 
 Penjelasan tugas:
