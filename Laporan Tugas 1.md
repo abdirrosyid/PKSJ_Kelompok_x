@@ -68,8 +68,18 @@ UJI PENETRASI 1
   
 ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/1.PNG "Logo Title Text 1")
 
-  2 . Masukkan nama,tipe,dan versi OS yang sesuai dengan OS yang akan diinstall dan aturlah jumlah RAM yang akan digunakan sesuai dengan kebutuhan OS
+  2 . Masukkan nama,tipe,dan versi OS yang sesuai dengan OS yang akan diinstall kemudian aturlah jumlah RAM yang akan digunakan sesuai dengan kebutuhan OS dan pilih 'create a virtual hard disk now'.
   
 ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/2.PNG "Logo Title Text 2")
   
+  3 . Masukkan size virtual disk yang dibutuhkan kemudian pilih 'VDI' untuk tipe file hard disk.
   
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/3.PNG "Logo Title Text 3")
+
+  4 . pilih 'setting' untuk membuka menu setting kemudian pilih 'storage'
+
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/4.PNG "Logo Title Text 4")
+
+  5 . pilih file ISO OS yang ingin digunakan
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/5.PNG "Logo Title Text 5")
