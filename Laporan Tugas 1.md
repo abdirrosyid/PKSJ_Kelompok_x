@@ -33,13 +33,13 @@ LANDASAN TEORI
 
 a.	OS yang digunakan
 
--Ubuntu Server
+- Ubuntu Server
 
- Ubuntu Server adalah sistem operasi turunan dari Linux Ubuntu yang didesain khusus dengan kernel yang telah dikustomisasi untuk bekerja sebagai sistem operasi server.
+  Ubuntu Server adalah sistem operasi turunan dari Linux Ubuntu yang didesain khusus dengan kernel yang telah dikustomisasi untuk bekerja sebagai sistem operasi server.
  
--Kali Linux
+- Kali Linux
 
- Kali Linux adalah sebuah distro linux yang dikembangkan oleh Offensive Security yang mempunyai fungsi untuk kebutuhan professional penetration tester.
+  Kali Linux adalah sebuah distro linux yang dikembangkan oleh Offensive Security yang mempunyai fungsi untuk kebutuhan professional penetration tester.
 
 b.	Tools yang digunakan
 
@@ -63,6 +63,12 @@ Defending Tools
 UJI PENETRASI 1
 1.	Installasi Ubuntu Server
 
-
+  1. Pilih 'New' untuk membuat Virtual Machine yang baru
+  
 ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/1.PNG "Logo Title Text 1")
 
+  2. Masukkan nama,tipe,dan versi OS yang sesuai dengan OS yang akan diinstall dan aturlah jumlah RAM yang akan digunakan sesuai dengan kebutuhan OS
+  
+  ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/2.PNG "Logo Title Text 1")
+  
+  
