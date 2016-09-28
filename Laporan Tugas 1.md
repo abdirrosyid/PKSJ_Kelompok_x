@@ -9,7 +9,7 @@ Adian Latifa Nurrohman (5113100031)
 
 Tomson Panagua Krisasandi Pangaribuan (5113100048)
 
-PENDAHULUAN
+## PENDAHULUAN
 
 Tugas ini dibuat untuk menyelesaikan tugas Mata Kuliah Perancangan Keamanan Sistem dan Jaringan (PKSJ) Tahun 2016/2017, Teknik Informatika, Institut Teknologi Sepuluh Nopember, Surabaya.
 
@@ -29,7 +29,7 @@ Tugas 2: Uji Penetrasi 2
 -	Konfigurasilah SSH Server agar tidak default lagi
 -	Lakukan uji penetrasi 2 dengan tools yang sama dan catat hasilnya
 
-LANDASAN TEORI
+## LANDASAN TEORI
 
 a.	OS yang digunakan
 
@@ -60,7 +60,7 @@ Defending Tools
  Fail2ban adalah package keamanan yang digunakan untuk mencegah serangan bruteforce dan DDoS pada linux.
 
 
-UJI PENETRASI 1
+## UJI PENETRASI 1
 
 1.	Installasi Ubuntu Server
 
@@ -76,10 +76,26 @@ UJI PENETRASI 1
   
 ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/3.PNG "Logo Title Text 3")
 
-  4 . pilih 'setting' untuk membuka menu setting kemudian pilih 'storage'
+  4 . Pilih 'setting' untuk membuka menu setting kemudian pilih 'storage'
 
 ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/4.PNG "Logo Title Text 4")
 
-  5 . pilih file ISO OS yang ingin digunakan
+  5 . Pilih file ISO OS yang ingin digunakan
   
 ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/5.PNG "Logo Title Text 5")
+
+  6 . Klik 'Kali Linux' dan klik start untuk menjalankan VM.
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/6.PNG "Logo Title Text 6")
+
+  7 . pilih opsi 'Graphical Install'
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/7.PNG "Logo Title Text 7")
+
+  8 . Plih bahasa yang akan digunakan.
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/8.PNG "Logo Title Text 8")
+
+  9 . Pilih negera tempat tinggalmu.(karena tidak ada pilihan 'Indonesia',maka pilih 'Other')
+ 
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/9.PNG "Logo Title Text 9")
