@@ -2,8 +2,11 @@
 
 Anggota Kelompok:
 Andre Abdirrosyid (5112100186)
+
 Muhammad Adnan Yusuf (5113100001)
+
 Adian Latifa Nurrohman (5113100031)
+
 Tomson Panagua Krisasandi Pangaribuan (5113100048)
 
 PENDAHULUAN
@@ -47,7 +50,7 @@ Attacking Tools
 
 - Ncrack
 
-Ncrack adalah sebuah tool untuk membobol proses autentikasi dari suatu jaringan dengan kecepatan tinggi. Perusahaan biasanya menggunakan tool ini untuk melakukan tes pada host dan perangkat suatu jaringan yang menggunakan password yang lemah.
+ Ncrack adalah sebuah tool untuk membobol proses autentikasi dari suatu jaringan dengan kecepatan tinggi. Perusahaan biasanya menggunakan tool ini untuk melakukan tes pada host dan perangkat suatu jaringan yang menggunakan password yang lemah.
 
 Defending Tools
 
