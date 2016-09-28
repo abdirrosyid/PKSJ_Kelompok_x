@@ -62,7 +62,7 @@ Defending Tools
 
 ## UJI PENETRASI 1
 
-1.	Installasi Ubuntu Server
+### 1.	Installasi Ubuntu Server
 
   1 . Pilih 'New' untuk membuat Virtual Machine yang baru
   
@@ -138,4 +138,50 @@ Defending Tools
 
   19 . Pilih disk yang akan dipartisi
   
- ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/19.PNG "Logo Title Text 19")
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/19.PNG "Logo Title Text 19")
+ 
+  20 . Pilih skema partisi yang ingin digunakan
+ 
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/20.PNG "Logo Title Text 20")
+
+  21 . Pilih 'Finish partitioning and writes changes to disk'
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/21.PNG "Logo Title Text 21")
+
+  22 . Pilih 'yes' untuk memulai proses partisi
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/22.PNG "Logo Title Text 22")
+
+  23 . Pilih 'yes' untuk menggunakan network mirror
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/23.PNG "Logo Title Text 23")
+ 
+  24 . Masukkan HTTP Proxy jika ada
+ 
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/24.PNG "Logo Title Text 24") 
+
+  25 . Pilih 'yes' untuk menginstall GRUB loader
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/25.PNG "Logo Title Text 25")
+
+  26 . Pilih lokasi device yang ingin diinstall GRUB loader
+ 
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/26.PNG "Logo Title Text 26")
+
+  27 . Tampilan instalasi selesai,pilih 'continue' untuk melakukan reboot
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/27.PNG "Logo Title Text 27")
+
+  28 . Masukkan username yang sudah dibuat
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/28.PNG "Logo Title Text 28")
+ 
+  29 . Masukkan password
+
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/29.PNG "Logo Title Text 29")
+
+  30 . tampilan desktop Kali Linux
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/30.PNG "Logo Title Text 30")
+
+### 2. Instalasi Ubuntu Server
