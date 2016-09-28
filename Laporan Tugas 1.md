@@ -337,9 +337,18 @@ Defending Tools
 
 ### 4. Uji Penetrasi dengan SSH brute force tools
 
-Pada tahap uji penetrasi tanpa defense ini akan ada 5 skenario
+Pada tahap uji penetrasi tanpa defense ini akan ada 5 skenario :
+
 1.username="adnan"   password="admin"     (benar)
+
 2.username="root"   password="admin"      (username salah)
+
 3.file username_benar.txt file passwordbenar.txt
+
 4.file username_benar.txt file passwordsalah.txt
+
 5.file username_salah.txt file passwordsalah.txt
+
+* **Hydra**
+
+    
