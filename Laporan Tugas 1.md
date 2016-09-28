@@ -196,7 +196,24 @@ Defending Tools
   
 ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/instalasi-ubuntu-server/33.PNG "Logo Title Text 33")
 
+### 2. Instalasi SSH Server
 
+  1.Instal ssh server dengan mengetik :"sudo apt-get install openssh-server"
+
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-ssh-server/1.PNG "Logo Title Text 1")
+
+  2.Tampilan proses instalasi
+
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-ssh-server/2.PNG "Logo Title Text 2")
+  
+  3.Jalankan ssh server dengan mengetik :"sudo service ssh start"
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-ssh-server/3.PNG "Logo Title Text 3")
+  
+  4.Tampilan proses start ssh server
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-ssh-server/4.PNG "Logo Title Text 4")
+  
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
   1 . Pilih 'New' untuk membuat Virtual Machine yang baru
@@ -321,21 +338,4 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ### 2. Instalasi Ubuntu Server
 
-### 3. Instalasi SSH Server
 
-  1.Instal ssh server dengan mengetik :"sudo apt-get install openssh-server"
-
-![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-ssh-server/1.PNG "Logo Title Text 1")
-
-  2.Tampilan proses instalasi
-
-![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-ssh-server/2.PNG "Logo Title Text 2")
-  
-  3.Jalankan ssh server dengan mengetik :"sudo service ssh start"
-  
-![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-ssh-server/3.PNG "Logo Title Text 3")
-  
-  4.Tampilan proses start ssh server
-  
-![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-ssh-server/4.PNG "Logo Title Text 4")
-  
