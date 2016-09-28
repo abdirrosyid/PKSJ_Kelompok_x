@@ -22,6 +22,7 @@ Tugas 2: Uji Penetrasi 2
 -	Lakukan uji penetrasi 2 dengan tools yang sama dan catat hasilnya
 
 LANDASAN TEORI
+
 1.	OS yang digunakan
 
 -Ubuntu Server
@@ -33,7 +34,9 @@ LANDASAN TEORI
  Kali Linux adalah sebuah distro linux yang dikembangkan oleh Offensive Security yang mempunyai fungsi untuk kebutuhan professional penetration tester.
 
 2.	Tools yang digunakan
+
 Attacking Tools
+
 -THC Hydra
 
  THC-Hydra adalah sebuah tools untuk security tester dengan mencoba semua password yangk ita siapkan dalam sebuah list atau yang kita   tentukan sebelumnya. Lebih tepatnya dengan menggunakan teknik bruteforce.
@@ -43,6 +46,7 @@ Attacking Tools
 Ncrack adalah sebuah tool untuk membobol proses autentikasi dari suatu jaringan dengan kecepatan tinggi. Perusahaan biasanya menggunakan tool ini untuk melakukan tes pada host dan perangkat suatu jaringan yang menggunakan password yang lemah.
 
 Defending Tools
+
 - Fail2ban
 
  Fail2ban adalah package keamanan yang digunakan untuk mencegah serangan bruteforce dan DDoS pada linux.
