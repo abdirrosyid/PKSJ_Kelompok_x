@@ -320,4 +320,19 @@ Defending Tools
 
 ### 3. Instalasi SSH Server
 
-![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-ssh-server/1.PNG "Logo Title Text 33")
+  1.Instal ssh server dengan mengetik :"sudo apt-get install openssh-server"
+
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-ssh-server/1.PNG "Logo Title Text 1")
+
+  2.Tampilan proses instalasi
+
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-ssh-server/2.PNG "Logo Title Text 2")
+  
+  3.Jalankan ssh server dengan mengetik :"sudo service ssh start"
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-ssh-server/3.PNG "Logo Title Text 3")
+  
+  4.Tampilan proses start ssh server
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-ssh-server/4.PNG "Logo Title Text 4")
+  
