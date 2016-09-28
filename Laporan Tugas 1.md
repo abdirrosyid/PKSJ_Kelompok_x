@@ -10,20 +10,24 @@ PENDAHULUAN
 Tugas ini dibuat untuk menyelesaikan tugas Mata Kuliah Perancangan Keamanan Sistem dan Jaringan (PKSJ) Tahun 2016/2017, Teknik Informatika, Institut Teknologi Sepuluh Nopember, Surabaya.
 
 Penjelasan tugas:
+
 Tugas 1: Uji Penetrasi 1
+
 -	Install sebuah virtual OS dengan Ubuntu Server
 -	Install SSH Server dengan konfigurasi default
 -	Install satu lagi virtual OS dengan OS bebas, misalnya Kali Linux atau Ubuntu Desktop
 -	Pastikan tools untuk SSH brute force attack sudah terinstall
 -	Lakukan uji penetrasi 1 dengan THC-Hydra atau Ncrack dan catat hasil uji penetrasi 1
+
 Tugas 2: Uji Penetrasi 2
+
 -	Install fail2ban pada Ubuntu Server yang telah diinstall SSH Servernya
 -	Konfigurasilah SSH Server agar tidak default lagi
 -	Lakukan uji penetrasi 2 dengan tools yang sama dan catat hasilnya
 
 LANDASAN TEORI
 
-1.	OS yang digunakan
+a.	OS yang digunakan
 
 -Ubuntu Server
 
@@ -33,7 +37,7 @@ LANDASAN TEORI
 
  Kali Linux adalah sebuah distro linux yang dikembangkan oleh Offensive Security yang mempunyai fungsi untuk kebutuhan professional penetration tester.
 
-2.	Tools yang digunakan
+b.	Tools yang digunakan
 
 Attacking Tools
 
