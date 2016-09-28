@@ -41,11 +41,11 @@ b.	Tools yang digunakan
 
 Attacking Tools
 
--THC Hydra
+- THC Hydra
 
  THC-Hydra adalah sebuah tools untuk security tester dengan mencoba semua password yangk ita siapkan dalam sebuah list atau yang kita   tentukan sebelumnya. Lebih tepatnya dengan menggunakan teknik bruteforce.
 
--Ncrack
+- Ncrack
 
 Ncrack adalah sebuah tool untuk membobol proses autentikasi dari suatu jaringan dengan kecepatan tinggi. Perusahaan biasanya menggunakan tool ini untuk melakukan tes pada host dan perangkat suatu jaringan yang menggunakan password yang lemah.
 
