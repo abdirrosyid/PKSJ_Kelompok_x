@@ -64,11 +64,11 @@ UJI PENETRASI 1
 
 1.	Installasi Ubuntu Server
 
-  1. Pilih 'New' untuk membuat Virtual Machine yang baru
+  1 . Pilih 'New' untuk membuat Virtual Machine yang baru
   
 ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/1.PNG "Logo Title Text 1")
 
-  2. Masukkan nama,tipe,dan versi OS yang sesuai dengan OS yang akan diinstall dan aturlah jumlah RAM yang akan digunakan sesuai dengan kebutuhan OS
+  2 . Masukkan nama,tipe,dan versi OS yang sesuai dengan OS yang akan diinstall dan aturlah jumlah RAM yang akan digunakan sesuai dengan kebutuhan OS
   
 ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/2.PNG "Logo Title Text 2")
   
