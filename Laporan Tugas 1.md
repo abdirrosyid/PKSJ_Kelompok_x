@@ -99,3 +99,43 @@ Defending Tools
   9 . Pilih negera tempat tinggalmu.(karena tidak ada pilihan 'Indonesia',maka pilih 'Other')
  
 ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/9.PNG "Logo Title Text 9")
+
+  10 . Pilih benua tempat tinggalmu.
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/10.PNG "Logo Title Text 10")
+
+  11 . Pilih negara tempat tinggalmu.
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/11.PNG "Logo Title Text 11")
+
+  12 . Pilih negara yang menjadi basis locale
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/12.PNG "Logo Title Text 12")
+
+  13 . Pilih Keymap yang ingin digunakan
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/13.PNG "Logo Title Text 13")
+
+  14 . Masukkan hostname yang ingin digunakan
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/14.PNG "Logo Title Text 14")
+
+  15 . Masukkan domain yang ingin digunakan
+
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/15.PNG "Logo Title Text 15")
+
+  16 . Masukkan password root yang ingin digunakan sebanyak dua kali
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/16.PNG "Logo Title Text 16")
+
+  17 . Pilihlah Time Zone yang sesuai dengan lokasi tempat tinggal
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/17.PNG "Logo Title Text 17")
+
+  18 . Pilihlah opsi untuk mempartisi disk
+  
+![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/18.PNG "Logo Title Text 18")
+
+  19 . Pilih disk yang akan dipartisi
+  
+ ![alt text](https://github.com/panagua/PKSJ_Kelompok_x/blob/master/Instalasi-Kali-Linux/19.PNG "Logo Title Text 19")
